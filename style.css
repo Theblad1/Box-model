@@ -1,0 +1,22 @@
+header {
+    /*width: 500px;
+     height: 100px; */
+    background-color: bisque;
+    border: 2px solid rgb(43, 103, 83);
+    text-align: center;
+    padding: 50px 100px 50px 100px;
+    margin: 50px 100px 50px 100px;
+}
+
+main {
+    padding: 10px;
+    margin-top: 20px;
+    background-color: aqua;
+    border: 1px dashed rgb(219, 134, 24);
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: cadetblue;
+}
